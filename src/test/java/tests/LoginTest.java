@@ -82,7 +82,6 @@ public class LoginTest extends Base {
 	public Object[][] getLoginData()
 	{
 		Object[][] data = {{"bhargava372@gmail.com","Bhargava#96","Sucessful"}};
-		System.out.println("Welcome");
 		return data;
 	}
 }
